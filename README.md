@@ -3,7 +3,7 @@
 - 1.) Normal wallpaper which can be selected by SUPER W. Which will be used by default by auto wallpaper changer.
 - 2.) Dynamic - Dark . Will be used when changing to dark theme mode using theme switcher.
 - 3.) Dynamic - Light . Will be used when changing to light theme mode using theme switcher. 
-
+ aka
 
 ## Sources:
 [Alphacorders](https://alphacoders.com) <br>
